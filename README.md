@@ -1,3 +1,3 @@
-# SPA
+# Next.js Template
 
 ...
